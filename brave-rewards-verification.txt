@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mitchinson.dev
+Token: acb98758e191611b2b74c7a2055d205fc69909afb07340584e78259d4a6dfefa

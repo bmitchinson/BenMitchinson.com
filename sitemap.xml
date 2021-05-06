@@ -37,6 +37,13 @@
   </url>
   
   <url>
+    <loc>https://mitchinson.dev/all-tags/index.html</loc>
+    
+    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mitchinson.dev/Video-Tag-Demo/index.html</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
@@ -47,27 +54,6 @@
     <loc>https://mitchinson.dev/all-archives/index.html</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/all-tags/index.html</loc>
-    
-    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Class-Fall19/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/About-This-Site/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
   </url>
   
@@ -86,28 +72,14 @@
   </url>
   
   <url>
+    <loc>https://mitchinson.dev/Class-Fall19/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mitchinson.dev/Embedded-Systems/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Device-Advice/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/If-It-Aint-Broke/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Laserphonic/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -121,7 +93,35 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Software-Design/</loc>
+    <loc>https://mitchinson.dev/Device-Advice/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Laserphonic/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/If-It-Aint-Broke/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/About-This-Site/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Playground-News/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -135,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Playground-News/</loc>
+    <loc>https://mitchinson.dev/Software-Design/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     

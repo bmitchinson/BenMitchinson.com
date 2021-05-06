@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://mitchinson.dev/vail-feb-2021/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://mitchinson.dev/Vail-2020/</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
@@ -30,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/vail-feb-2021/</loc>
+    <loc>https://mitchinson.dev/all-archives/index.html</loc>
     
     <lastmod>2021-04-29T03:46:58.222Z</lastmod>
     
@@ -51,21 +58,14 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/all-archives/index.html</loc>
-    
-    <lastmod>2021-04-29T03:46:58.222Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Alexa-Bus-Tracker/</loc>
+    <loc>https://mitchinson.dev/About-This-Site/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Computer-Comfort-Year-3/</loc>
+    <loc>https://mitchinson.dev/Alexa-Bus-Tracker/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -79,28 +79,7 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Embedded-Systems/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Hy-Vee-Internship/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Device-Advice/</loc>
-    
-    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://mitchinson.dev/Laserphonic/</loc>
+    <loc>https://mitchinson.dev/Computer-Comfort-Year-3/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -114,7 +93,14 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/About-This-Site/</loc>
+    <loc>https://mitchinson.dev/Device-Advice/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Hy-Vee-Internship/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
@@ -128,14 +114,28 @@
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Street-Smart/</loc>
+    <loc>https://mitchinson.dev/Software-Design/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://mitchinson.dev/Software-Design/</loc>
+    <loc>https://mitchinson.dev/Embedded-Systems/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Laserphonic/</loc>
+    
+    <lastmod>2021-04-29T03:46:58.221Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://mitchinson.dev/Street-Smart/</loc>
     
     <lastmod>2021-04-29T03:46:58.221Z</lastmod>
     
